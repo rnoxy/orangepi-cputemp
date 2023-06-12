@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v2
+        with:
+          platforms: arm64
 
       - name: Checkout repository
         uses: actions/checkout@v3
