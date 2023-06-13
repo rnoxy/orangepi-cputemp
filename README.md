@@ -27,6 +27,7 @@ By default the temperature range is divided into 6 zones, which is suitable for 
 
 
 One can use this service in order to create a sensor in [Home Assistant](https://www.home-assistant.io/) that reads the CPU temperature of the raspberry/orange pi host every 5 seconds; see figure below.
+<img width="502" alt="image" src="https://github.com/rnoxy/orangepi-cputemp/assets/12031664/b23a7ce0-639f-433f-ade4-a60b03449aef">
 
 See the section [Usage](#usage) for more details.
 
