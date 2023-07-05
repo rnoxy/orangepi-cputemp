@@ -132,4 +132,4 @@ One can build the image with the command
 docker build -t orangepi-cputemp --platform linux/arm64 .
 ```
 
-The option `--platform linux/arm64` is required if you run the command on a x86_64 machine.
+The option `--platform linux/arm64` is required if you run the command on a arm64 machine (Raspberry PI or Orange Pi).
